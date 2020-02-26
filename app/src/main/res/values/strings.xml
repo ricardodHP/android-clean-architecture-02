@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">CleanArchitecture2</string>
+    <string name="none">none</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="my_contacts">My contacts</string>
+    <string name="add_contact">Add contact</string>
+    <string name="searching">searching</string>
+    <string name="about">About</string>
+    <string name="sample_by">Sample by</string>
 </resources>
