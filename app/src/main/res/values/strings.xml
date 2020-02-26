@@ -6,4 +6,6 @@
     <string name="phone">Phone</string>
     <string name="address">Address</string>
     <string name="birthdate">Birthdate</string>
+    <string name="my_contacts">My contacts</string>
+    <string name="add_contact">Add contact</string>
 </resources>
