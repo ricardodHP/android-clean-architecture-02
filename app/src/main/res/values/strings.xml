@@ -8,4 +8,7 @@
     <string name="birthdate">Birthdate</string>
     <string name="my_contacts">My contacts</string>
     <string name="add_contact">Add contact</string>
+    <string name="searching">searching</string>
+    <string name="about">About</string>
+    <string name="sample_by">Sample by</string>
 </resources>
